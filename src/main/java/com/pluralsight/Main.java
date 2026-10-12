@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Pizza");
         System.out.println("paper");
         System.out.println("paper");
+        System.out.println("water");
     }
 }
 
